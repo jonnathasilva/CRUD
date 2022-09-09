@@ -1,13 +1,11 @@
 # CRUD
 
-<p align="center" >
-  <img src="https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge">
-</p>
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Descrição do Projeto
 
 <p>
-API com fim de aperfeiçoar minha compreensão no Back-End.
+API com fim de aperfeiçoar meu aprendizado no Back-End.
 </p>
 
 ## Funcionalidades
