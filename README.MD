@@ -5,11 +5,7 @@
 ## Descrição do Projeto
 
 <p>
-<<<<<<< HEAD
 CRUD é uma aplicação Back-End com a finalidade de transita informação do cliente ao banco de dados.
-=======
-CRUD é uma aplicação BAck-End com a finalidade de transita informação para o banco de dados.
->>>>>>> 1c404ae00a6e2415fa6a2f558b1a8dd352a493ac
 </p>
 
 ## Funcionalidades
