@@ -5,7 +5,7 @@
 ## Descrição do Projeto
 
 <p>
-CRUD é uma aplicação BAck-End com a finalidade transita informação para o banco de dados.
+CRUD é uma aplicação BAck-End com a finalidade de transita informação para o banco de dados.
 </p>
 
 ## Funcionalidades
