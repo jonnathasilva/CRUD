@@ -5,7 +5,7 @@
 ## Descrição do Projeto
 
 <p>
-API com fim de aperfeiçoar meu aprendizado no Back-End.
+CRUD é uma aplicação BAck-End com a funcionalidade de Criar, Deletar, Editar, Busca informação no banco de dados.
 </p>
 
 ## Funcionalidades
@@ -36,7 +36,7 @@ git clone https://github.com/jonnathasilva/CRUD.git
 ```
 // 1. abra o terminal
 
-// 2. git install
+// 2. npm install
 
 // 3. npm run dev
 ```
